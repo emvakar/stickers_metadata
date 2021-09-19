@@ -1,0 +1,9 @@
+Hello everyone!
+
+Thank you for using our stickers.
+
+In this version, we did something:
+     - Fixed a bug that led to the limitation of the displayed stickers.
+     - Added sorting of stickers, now the most used stickers will go up. The option will turn on automatically, to turn off use the toggle button.
+
+We plan to release the next update as soon as possible.
