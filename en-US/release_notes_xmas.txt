@@ -1,9 +1,11 @@
 Hello everyone!
 
+Merry Christmas and Happy New Year!
+
 Thank you for using our stickers.
 
 In this version, we did something:
      - Fixed a bug that led to the limitation of the displayed stickers.
-     - Fixed sizes on all iPad
+     - Fixed sizes on all iPad.
 
 We plan to release the next update as soon as possible.
